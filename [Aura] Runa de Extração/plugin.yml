@@ -1,0 +1,8 @@
+name: Aura-Extrair
+version: 0.0.1
+main: com.github.dennermelo.aura.extraction.Main
+author: [String]
+commands:
+  giveruna:
+    usage: /<command>
+    description: Envia uma Runa de Extracao.
